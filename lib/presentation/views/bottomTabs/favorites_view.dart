@@ -22,7 +22,7 @@ class FavoritesViewState extends ConsumerState<FavoritesView>
 
     return const Scaffold(
         body: Center(
-      child: Text('Page Index favorites:'),
+      child: Text('Page Index favorites: holaaaaa '),
     ));
   }
 
